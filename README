@@ -1,0 +1,3 @@
+An example of how to use autoload function in php (__get and __set). 
+This code will be taken to further development where I hope to include other 
+php autolad functions.
